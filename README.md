@@ -25,15 +25,12 @@ O objetivo principal deste projeto é:
 
 ## 🖼️ Demonstração Visual
 
-### 1️⃣ Dashboard Principal
-![Dashboard Principal](assets/dashboard_principal.png)
+###  Dashboard Principal e Gráficos Dinâmicos
+![Dashboard Principal](assets/dashboard.gif)
 
-### 2️⃣ Gráficos Dinâmicos
-![Gráficos](assets/graficos.png)
-
-### 3️⃣ Tabelas Dinâmicas
-![Tabelas Dinâmicas](assets/tabelas_dinamicas.png)
-
+###  Tabelas Dinâmicas
+![Tabelas Dinâmicas](assets/tbl1.gif)
+![Tabelas Dinâmicas](assets/tbl2.gif)
 
 ---
 
