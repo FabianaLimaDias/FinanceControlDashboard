@@ -39,7 +39,7 @@ O objetivo principal deste projeto é:
 
 ## 🚀 Como Usar
 
-1. Faça o download do arquivo da planilha: [financeiro.xlsx](link-para-download).
+1. Faça o download do arquivo da planilha: [financeiro.xlsx](https://github.com/FabianaLimaDias/FinanceControlDashboard/blob/main/financeiro.xlsx)
 2. Abra o arquivo no **Microsoft Excel** (versão 2016 ou superior recomendada).
 3. Explore as diferentes abas:
    - **Dashboard**: Resumo visual,  Gráficos interativos baseados nos dados.
